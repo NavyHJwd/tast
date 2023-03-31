@@ -1,0 +1,51 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "34809351",
+      "name": "Done",
+      "font_class": "Done",
+      "unicode": "e617",
+      "unicode_decimal": 58903
+    },
+    {
+      "icon_id": "34809385",
+      "name": "Search",
+      "font_class": "Search",
+      "unicode": "e61a",
+      "unicode_decimal": 58906
+    },
+    {
+      "icon_id": "34810024",
+      "name": "Up",
+      "font_class": "Up",
+      "unicode": "e620",
+      "unicode_decimal": 58912
+    },
+    {
+      "icon_id": "34810025",
+      "name": "Right",
+      "font_class": "Right",
+      "unicode": "e621",
+      "unicode_decimal": 58913
+    },
+    {
+      "icon_id": "34810033",
+      "name": "Left",
+      "font_class": "Left",
+      "unicode": "e622",
+      "unicode_decimal": 58914
+    },
+    {
+      "icon_id": "34817868",
+      "name": "折叠菜单",
+      "font_class": "zhediecaidan",
+      "unicode": "e61f",
+      "unicode_decimal": 58911
+    }
+  ]
+}
